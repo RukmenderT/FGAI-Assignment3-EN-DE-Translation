@@ -24,7 +24,7 @@
 
 ## 1. Problem Statement and Objective
 
-**Problem statement.** Machine translation is an autoregressive text-generation task: given a sentence in a source language, the system generates the equivalent sentence in a target language one token at a time. Two Transformer designs are used for this today. Encoder-decoder models read the whole source sentence with a bidirectional encoder and generate the translation with a decoder that attends to it. Decoder-only large language models receive the source sentence inside a prompt and continue the text with the translation. The two designs differ in size, pretraining, tokenization and how they are adapted to the task, so it is not obvious which one gives the better trade-off between quality and cost.
+**Problem statement.** Machine translation is an autoregressive text-generation task: given a sentence in a source language, the system generates the equivalent sentence in a target language one token at a time. Two Transformer designs are used for this. Encoder-decoder models read the whole source sentence with a bidirectional encoder and generate the translation with a decoder that attends to it. Decoder-only large language models receive the source sentence inside a prompt and continue the text with the translation. The two designs differ in size, pretraining, tokenization and how they are adapted to the task, so it is not obvious which one gives the better trade-off between quality and cost.
 
 **Objective.** Using English as the source language and German as the target language, this project:
 
