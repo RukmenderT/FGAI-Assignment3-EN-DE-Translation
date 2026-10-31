@@ -1,0 +1,96 @@
+{
+  "key": "gemma_lora",
+  "model": "Gemma-2-2B-it + LoRA",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 29.32,
+      "chrf": 57.03,
+      "length_ratio": 0.959,
+      "distinct_2": 0.9089,
+      "abnormal_length_pct": 1.0
+    },
+    {
+      "temperature": 0.2,
+      "bleu": 29.91,
+      "chrf": 57.39,
+      "length_ratio": 0.966,
+      "distinct_2": 0.9063,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 0.5,
+      "bleu": 24.74,
+      "chrf": 53.78,
+      "length_ratio": 0.98,
+      "distinct_2": 0.9171,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.8,
+      "bleu": 14.73,
+      "chrf": 44.27,
+      "length_ratio": 0.993,
+      "distinct_2": 0.9131,
+      "abnormal_length_pct": 2.5
+    },
+    {
+      "temperature": 1.0,
+      "bleu": 8.54,
+      "chrf": 34.56,
+      "length_ratio": 1.002,
+      "distinct_2": 0.9511,
+      "abnormal_length_pct": 9.5
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 2.43,
+      "chrf": 23.73,
+      "length_ratio": 1.19,
+      "distinct_2": 0.9813,
+      "abnormal_length_pct": 22.0
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Der Polizeichef der Delta State University, Lynn Buford, sagte, dass die Universitätsmitarbeiter um 10:18 Uhr über das Schießen informiert wurden.",
+      "Er sagte, dass Lamb die fatale 911-Anruf nach dem Ereignis gemacht hat."
+    ],
+    "0.2": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Der Polizeichef der Delta State University, Lynn Buford, sagte, dass die Universitätsmitarbeiter um 10:18 Uhr von dem Schuss gewarnt wurden.",
+      "Er sagte, dass Lamb die fatale 911-Anruf nach dem Ereignis gemacht hat."
+    ],
+    "0.5": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Der Polizeichef des Delta State University, Lynn Buford, sagte, dass die Universitätsleitung um 10:18 Uhr von einem Schussheard.",
+      "Lamb habe die entscheidende 911-Ruf nach dem Unfall gemacht, sagte er."
+    ],
+    "0.8": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "An der Delta State University in Mississippi wird am Dienstagmorgen auf eine Schusswaffe geschossen worden.",
+      "Nach der Aussage von Lamb, habe er die 911-Rufe nach dem Ereignis gemacht."
+    ],
+    "1.0": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Zählijtтере von etwa 8000 Metern und 600 Quadratkilometern werden das höchste beleuchte, liegend sieben Drittel über das Gleisunterlaufsteckt.",
+      "Er sagte Lamb hat sie nach solchen etwas besagt."
+    ],
+    "1.2": [
+      "In 911-TelefonRuf vortest die Mensge: Professor AdmitsnatiAbschussott Freundin",
+      "Der stellvertretende Direktor erklärt, dass [...] über das vom Präsidenten anzstagifolium von prensaBans Schlag geben warener bekommen gegen einige Darung immer weniger leitenDesire ihm, beim Schlafen.",
+      "Arrivalistes schmausten von Nostyrolpatchkindern作出consultroads ScaffoldSheets日閲覧ांसppuden뜨답tdown."
+    ]
+  },
+  "sources": [
+    "In 911 Call, Professor Admits to Shooting Girlfriend",
+    "Delta State University police chief Lynn Buford said university officials heard about the shooting at 10:18 a.m.",
+    "He said Lamb made the fateful 911 call sometime after that."
+  ],
+  "references": [
+    "In einem Notruf gesteht Professor, seine Freundin erschossen zu haben",
+    "Delta State University Polizeichef Lynn Buford sagte, dass Universitäts-Mitarbeiter das Schießen um 10:18 Uhr gehört haben.",
+    "Er sagte, dass Lamb den verhängnisvollen Notruf irgendwann danach gemacht hat."
+  ]
+}

@@ -1,0 +1,204 @@
+[18:50:44] Downloading WMT16 de-en (about 830 MB of parquet on first run)...
+[18:51:00] Downloading WMT16 de-en (about 830 MB of parquet on first run)...
+[18:51:09] Raw split sizes: {'train': 4548885, 'validation': 2169, 'test': 2999}
+[18:51:45] ===== Stage 'transformer' started =====
+[18:51:58] SentencePiece vocab = 16000
+[18:52:11] Basic Transformer parameters: 37,619,712
+[18:53:25]   epoch 1 step 500 loss 8.131 lr 8.75e-05
+[18:54:35]   epoch 1 step 1000 loss 6.878 lr 1.75e-04
+[18:55:44]   epoch 1 step 1500 loss 6.141 lr 2.62e-04
+[18:56:53]   epoch 1 step 2000 loss 5.542 lr 3.50e-04
+[18:57:45] Epoch 1: train 6.452 | val 5.277 | val BLEU 2.81
+[18:58:07]   epoch 2 step 2500 loss 4.980 lr 4.37e-04
+[18:59:15]   epoch 2 step 3000 loss 4.759 lr 5.24e-04
+[19:00:24]   epoch 2 step 3500 loss 4.518 lr 6.12e-04
+[19:01:32]   epoch 2 step 4000 loss 4.338 lr 6.99e-04
+[19:02:41]   epoch 2 step 4500 loss 4.217 lr 6.59e-04
+[19:03:13] Epoch 2: train 4.465 | val 4.065 | val BLEU 9.62
+[19:03:55]   epoch 3 step 5000 loss 3.936 lr 6.25e-04
+[19:05:03]   epoch 3 step 5500 loss 3.919 lr 5.96e-04
+[19:06:13]   epoch 3 step 6000 loss 3.868 lr 5.70e-04
+[19:07:22]   epoch 3 step 6500 loss 3.821 lr 5.48e-04
+[19:08:31]   epoch 3 step 7000 loss 3.756 lr 5.28e-04
+[19:08:38] Epoch 3: train 3.852 | val 3.692 | val BLEU 14.18
+[19:09:44]   epoch 4 step 7500 loss 3.629 lr 5.10e-04
+[19:10:52]   epoch 4 step 8000 loss 3.589 lr 4.94e-04
+[19:12:01]   epoch 4 step 8500 loss 3.595 lr 4.79e-04
+[19:13:08]   epoch 4 step 9000 loss 3.550 lr 4.66e-04
+[19:14:03] Epoch 4: train 3.590 | val 3.522 | val BLEU 15.32
+[19:14:20]   epoch 5 step 9500 loss 3.397 lr 4.53e-04
+[19:15:30]   epoch 5 step 10000 loss 3.460 lr 4.42e-04
+[19:16:38]   epoch 5 step 10500 loss 3.449 lr 4.31e-04
+[19:17:46]   epoch 5 step 11000 loss 3.431 lr 4.21e-04
+[19:18:54]   epoch 5 step 11500 loss 3.418 lr 4.12e-04
+[19:19:28] Epoch 5: train 3.441 | val 3.412 | val BLEU 15.73
+[19:20:07]   epoch 6 step 12000 loss 3.308 lr 4.03e-04
+[19:21:16]   epoch 6 step 12500 loss 3.341 lr 3.95e-04
+[19:22:26]   epoch 6 step 13000 loss 3.357 lr 3.88e-04
+[19:23:34]   epoch 6 step 13500 loss 3.345 lr 3.80e-04
+[19:24:41]   epoch 6 step 14000 loss 3.321 lr 3.73e-04
+[19:24:53] Epoch 6: train 3.338 | val 3.359 | val BLEU 16.42
+[19:25:52]   epoch 7 step 14500 loss 3.231 lr 3.67e-04
+[19:27:01]   epoch 7 step 15000 loss 3.256 lr 3.61e-04
+[19:28:10]   epoch 7 step 15500 loss 3.268 lr 3.55e-04
+[19:29:20]   epoch 7 step 16000 loss 3.292 lr 3.49e-04
+[19:30:17] Epoch 7: train 3.261 | val 3.318 | val BLEU 17.68
+[19:30:31]   epoch 8 step 16500 loss 3.220 lr 3.44e-04
+[19:31:41]   epoch 8 step 17000 loss 3.206 lr 3.39e-04
+[19:32:49]   epoch 8 step 17500 loss 3.178 lr 3.34e-04
+[19:33:57]   epoch 8 step 18000 loss 3.193 lr 3.29e-04
+[19:35:05]   epoch 8 step 18500 loss 3.217 lr 3.25e-04
+[19:35:43] Epoch 8: train 3.200 | val 3.281 | val BLEU 17.12
+[19:36:17]   epoch 9 step 19000 loss 3.133 lr 3.21e-04
+[19:37:25]   epoch 9 step 19500 loss 3.101 lr 3.16e-04
+[19:38:32]   epoch 9 step 20000 loss 3.133 lr 3.12e-04
+[19:39:42]   epoch 9 step 20500 loss 3.189 lr 3.09e-04
+[19:40:51]   epoch 9 step 21000 loss 3.170 lr 3.05e-04
+[19:41:09] Epoch 9: train 3.150 | val 3.252 | val BLEU 18.01
+[19:42:04]   epoch 10 step 21500 loss 3.068 lr 3.01e-04
+[19:43:13]   epoch 10 step 22000 loss 3.107 lr 2.98e-04
+[19:44:22]   epoch 10 step 22500 loss 3.108 lr 2.95e-04
+[19:45:31]   epoch 10 step 23000 loss 3.129 lr 2.91e-04
+[19:46:33] Epoch 10: train 3.109 | val 3.241 | val BLEU 18.09
+[19:46:42]   epoch 11 step 23500 loss 3.012 lr 2.88e-04
+[19:47:51]   epoch 11 step 24000 loss 3.047 lr 2.85e-04
+[19:49:01]   epoch 11 step 24500 loss 3.090 lr 2.82e-04
+[19:50:09]   epoch 11 step 25000 loss 3.069 lr 2.80e-04
+[19:51:18]   epoch 11 step 25500 loss 3.095 lr 2.77e-04
+[19:51:59] Epoch 11: train 3.072 | val 3.223 | val BLEU 18.12
+[19:52:29]   epoch 12 step 26000 loss 2.989 lr 2.74e-04
+[19:53:37]   epoch 12 step 26500 loss 3.009 lr 2.71e-04
+[19:54:46]   epoch 12 step 27000 loss 3.056 lr 2.69e-04
+[19:55:55]   epoch 12 step 27500 loss 3.060 lr 2.66e-04
+[19:57:04]   epoch 12 step 28000 loss 3.060 lr 2.64e-04
+[19:57:24] Epoch 12: train 3.041 | val 3.221 | val BLEU 18.69
+[19:58:14]   epoch 13 step 28500 loss 2.958 lr 2.62e-04
+[19:59:22]   epoch 13 step 29000 loss 2.995 lr 2.60e-04
+[20:00:31]   epoch 13 step 29500 loss 3.026 lr 2.57e-04
+[20:01:41]   epoch 13 step 30000 loss 3.045 lr 2.55e-04
+[20:02:48] Epoch 13: train 3.012 | val 3.214 | val BLEU 17.72
+[20:02:53]   epoch 14 step 30500 loss 3.050 lr 2.53e-04
+[20:04:01]   epoch 14 step 31000 loss 2.946 lr 2.51e-04
+[20:05:09]   epoch 14 step 31500 loss 2.974 lr 2.49e-04
+[20:06:17]   epoch 14 step 32000 loss 2.989 lr 2.47e-04
+[20:07:27]   epoch 14 step 32500 loss 3.036 lr 2.45e-04
+[20:08:13] Epoch 14: train 2.987 | val 3.201 | val BLEU 18.03
+[20:08:26] [Basic Transformer] BLEU=23.01 chrF=51.77 infer=11.7s params=37,619,712
+[20:08:28]   [Basic Transformer] T=0.0: BLEU=23.49 chrF=52.68
+[20:08:30]   [Basic Transformer] T=0.2: BLEU=22.98 chrF=52.35
+[20:08:32]   [Basic Transformer] T=0.5: BLEU=20.73 chrF=50.81
+[20:08:35]   [Basic Transformer] T=0.8: BLEU=15.9 chrF=44.53
+[20:08:38]   [Basic Transformer] T=1.0: BLEU=5.88 chrF=31.94
+[20:08:42]   [Basic Transformer] T=1.2: BLEU=0.5 chrF=22.47
+[20:08:43] ===== Stage 'transformer' finished in 77.0 min =====
+[20:08:47] ===== Stage 'mt5' started =====
+[20:09:22] mT5 parameters: 300,176,768
+[20:11:57]   mT5 epoch 1 step 250 loss 4.918
+[20:14:25]   mT5 epoch 1 step 500 loss 3.701
+[20:16:52]   mT5 epoch 1 step 750 loss 3.434
+[20:19:21]   mT5 epoch 1 step 1000 loss 3.331
+[20:21:47]   mT5 epoch 1 step 1250 loss 3.238
+[20:24:14]   mT5 epoch 1 step 1500 loss 3.143
+[20:26:44]   mT5 epoch 1 step 1750 loss 3.095
+[20:29:10]   mT5 epoch 1 step 2000 loss 3.050
+[20:31:37]   mT5 epoch 1 step 2250 loss 2.964
+[20:34:05]   mT5 epoch 1 step 2500 loss 2.968
+[20:36:33]   mT5 epoch 1 step 2750 loss 2.949
+[20:39:02]   mT5 epoch 1 step 3000 loss 2.892
+[20:41:29]   mT5 epoch 1 step 3250 loss 2.902
+[20:43:57]   mT5 epoch 1 step 3500 loss 2.834
+[20:46:23]   mT5 epoch 1 step 3750 loss 2.833
+[20:46:35] mT5 epoch 1: train 3.217 | val 2.304 | val BLEU 11.14
+[20:49:05]   mT5 epoch 2 step 4000 loss 2.581
+[20:51:35]   mT5 epoch 2 step 4250 loss 2.606
+[20:54:01]   mT5 epoch 2 step 4500 loss 2.555
+[20:56:30]   mT5 epoch 2 step 4750 loss 2.582
+[20:58:57]   mT5 epoch 2 step 5000 loss 2.557
+[21:01:24]   mT5 epoch 2 step 5250 loss 2.523
+[21:03:52]   mT5 epoch 2 step 5500 loss 2.559
+[21:06:20]   mT5 epoch 2 step 5750 loss 2.574
+[21:08:47]   mT5 epoch 2 step 6000 loss 2.502
+[21:11:15]   mT5 epoch 2 step 6250 loss 2.521
+[21:13:40]   mT5 epoch 2 step 6500 loss 2.499
+[21:16:07]   mT5 epoch 2 step 6750 loss 2.530
+[21:18:36]   mT5 epoch 2 step 7000 loss 2.483
+[21:21:03]   mT5 epoch 2 step 7250 loss 2.484
+[21:23:27]   mT5 epoch 2 step 7500 loss 2.459
+[21:23:40] mT5 epoch 2: train 2.534 | val 2.145 | val BLEU 13.76
+[21:24:00] [mT5-small] BLEU=16.6 chrF=44.85 infer=16.3s params=300,176,768
+[21:24:06]   [mT5-small] T=0.0: BLEU=18.42 chrF=46.57
+[21:24:11]   [mT5-small] T=0.2: BLEU=17.67 chrF=46.17
+[21:24:16]   [mT5-small] T=0.5: BLEU=14.67 chrF=42.75
+[21:24:21]   [mT5-small] T=0.8: BLEU=10.44 chrF=37.73
+[21:24:26]   [mT5-small] T=1.0: BLEU=5.6 chrF=30.95
+[21:24:33]   [mT5-small] T=1.2: BLEU=2.27 chrF=23.31
+[21:24:33] ===== Stage 'mt5' finished in 75.8 min =====
+[21:24:34] ===== Stage 'llama' started =====
+[21:24:52] LLaMA-3.2-1B-Instruct: 1,235,814,400 parameters, loaded in 16s
+[21:25:59] [LLaMA-3.2-1B-Instruct (zero-shot)] BLEU=18.68 chrF=46.45 infer=65.6s params=1,235,814,400
+[21:26:07] [LLaMA-3.2-1B-Instruct] 12000 SFT examples, mean length 120.1 tokens
+[21:26:37]   [LLaMA-3.2-1B-Instruct] step 25/750 loss 1.802
+[21:27:05]   [LLaMA-3.2-1B-Instruct] step 50/750 loss 1.663
+[21:27:35]   [LLaMA-3.2-1B-Instruct] step 75/750 loss 1.607
+[21:28:02]   [LLaMA-3.2-1B-Instruct] step 100/750 loss 1.525
+[21:28:34]   [LLaMA-3.2-1B-Instruct] step 125/750 loss 1.631
+[21:29:02]   [LLaMA-3.2-1B-Instruct] step 150/750 loss 1.557
+[21:29:32]   [LLaMA-3.2-1B-Instruct] step 175/750 loss 1.598
+[21:30:00]   [LLaMA-3.2-1B-Instruct] step 200/750 loss 1.624
+[21:30:28]   [LLaMA-3.2-1B-Instruct] step 225/750 loss 1.532
+[21:30:59]   [LLaMA-3.2-1B-Instruct] step 250/750 loss 1.512
+[21:31:28]   [LLaMA-3.2-1B-Instruct] step 275/750 loss 1.556
+[21:31:56]   [LLaMA-3.2-1B-Instruct] step 300/750 loss 1.589
+[21:32:27]   [LLaMA-3.2-1B-Instruct] step 325/750 loss 1.583
+[21:32:57]   [LLaMA-3.2-1B-Instruct] step 350/750 loss 1.593
+[21:33:25]   [LLaMA-3.2-1B-Instruct] step 375/750 loss 1.555
+[21:33:51]   [LLaMA-3.2-1B-Instruct] step 400/750 loss 1.586
+[21:34:19]   [LLaMA-3.2-1B-Instruct] step 425/750 loss 1.569
+[21:34:49]   [LLaMA-3.2-1B-Instruct] step 450/750 loss 1.568
+[21:35:18]   [LLaMA-3.2-1B-Instruct] step 475/750 loss 1.591
+[21:35:48]   [LLaMA-3.2-1B-Instruct] step 500/750 loss 1.501
+[21:36:16]   [LLaMA-3.2-1B-Instruct] step 525/750 loss 1.509
+[21:36:46]   [LLaMA-3.2-1B-Instruct] step 550/750 loss 1.582
+[21:37:16]   [LLaMA-3.2-1B-Instruct] step 575/750 loss 1.512
+[21:37:45]   [LLaMA-3.2-1B-Instruct] step 600/750 loss 1.428
+[21:38:13]   [LLaMA-3.2-1B-Instruct] step 625/750 loss 1.478
+[21:38:41]   [LLaMA-3.2-1B-Instruct] step 650/750 loss 1.482
+[21:39:10]   [LLaMA-3.2-1B-Instruct] step 675/750 loss 1.601
+[21:39:40]   [LLaMA-3.2-1B-Instruct] step 700/750 loss 1.511
+[21:40:09]   [LLaMA-3.2-1B-Instruct] step 725/750 loss 1.495
+[21:40:38]   [LLaMA-3.2-1B-Instruct] step 750/750 loss 1.540
+[21:42:20] [LLaMA-3.2-1B-Instruct + LoRA] BLEU=21.84 chrF=50.72 infer=101.8s params=1,235,814,400
+[21:42:44]   [LLaMA-3.2-1B-Instruct + LoRA] T=0.0: BLEU=23.62 chrF=52.74
+[21:43:08]   [LLaMA-3.2-1B-Instruct + LoRA] T=0.2: BLEU=22.47 chrF=51.31
+[21:43:31]   [LLaMA-3.2-1B-Instruct + LoRA] T=0.5: BLEU=18.8 chrF=48.21
+[21:44:07]   [LLaMA-3.2-1B-Instruct + LoRA] T=0.8: BLEU=11.15 chrF=39.83
+[21:45:03]   [LLaMA-3.2-1B-Instruct + LoRA] T=1.0: BLEU=4.71 chrF=30.08
+[21:46:12]   [LLaMA-3.2-1B-Instruct + LoRA] T=1.2: BLEU=0.37 chrF=16.88
+[21:46:15] ===== Stage 'llama' finished in 21.7 min =====
+[21:46:15] ===== Stage 'gemma' started =====
+[21:46:50] Gemma-2-2B-it: 2,614,341,888 parameters, loaded in 32s
+[21:51:38] [Gemma-2-2B-it (zero-shot)] BLEU=27.66 chrF=56.65 infer=287.6s params=2,614,341,888
+[21:51:49] [Gemma-2-2B-it] 6000 SFT examples, mean length 87.6 tokens
+[21:54:51]   [Gemma-2-2B-it] step 25/375 loss 2.081
+[21:57:48]   [Gemma-2-2B-it] step 50/375 loss 1.620
+[22:00:43]   [Gemma-2-2B-it] step 75/375 loss 1.660
+[22:03:50]   [Gemma-2-2B-it] step 100/375 loss 1.583
+[22:06:56]   [Gemma-2-2B-it] step 125/375 loss 1.489
+[22:09:48]   [Gemma-2-2B-it] step 150/375 loss 1.510
+[22:12:51]   [Gemma-2-2B-it] step 175/375 loss 1.482
+[22:15:57]   [Gemma-2-2B-it] step 200/375 loss 1.566
+[22:19:01]   [Gemma-2-2B-it] step 225/375 loss 1.563
+[22:22:00]   [Gemma-2-2B-it] step 250/375 loss 1.475
+[22:25:00]   [Gemma-2-2B-it] step 275/375 loss 1.465
+[22:27:55]   [Gemma-2-2B-it] step 300/375 loss 1.506
+[22:30:52]   [Gemma-2-2B-it] step 325/375 loss 1.529
+[22:33:41]   [Gemma-2-2B-it] step 350/375 loss 1.475
+[22:36:39]   [Gemma-2-2B-it] step 375/375 loss 1.523
+[22:41:39] [Gemma-2-2B-it + LoRA] BLEU=28.62 chrF=56.44 infer=299.0s params=2,614,341,888
+[22:42:45]   [Gemma-2-2B-it + LoRA] T=0.0: BLEU=29.32 chrF=57.03
+[22:43:51]   [Gemma-2-2B-it + LoRA] T=0.2: BLEU=29.91 chrF=57.39
+[22:45:00]   [Gemma-2-2B-it + LoRA] T=0.5: BLEU=24.74 chrF=53.78
+[22:46:17]   [Gemma-2-2B-it + LoRA] T=0.8: BLEU=14.73 chrF=44.27
+[22:47:42]   [Gemma-2-2B-it + LoRA] T=1.0: BLEU=8.54 chrF=34.56
+[22:50:32]   [Gemma-2-2B-it + LoRA] T=1.2: BLEU=2.43 chrF=23.73
+[22:50:40] ===== Stage 'gemma' finished in 64.4 min =====

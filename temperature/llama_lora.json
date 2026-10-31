@@ -1,0 +1,96 @@
+{
+  "key": "llama_lora",
+  "model": "LLaMA-3.2-1B-Instruct + LoRA",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 23.62,
+      "chrf": 52.74,
+      "length_ratio": 1.001,
+      "distinct_2": 0.8984,
+      "abnormal_length_pct": 1.0
+    },
+    {
+      "temperature": 0.2,
+      "bleu": 22.47,
+      "chrf": 51.31,
+      "length_ratio": 0.997,
+      "distinct_2": 0.8947,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 0.5,
+      "bleu": 18.8,
+      "chrf": 48.21,
+      "length_ratio": 0.963,
+      "distinct_2": 0.9108,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 0.8,
+      "bleu": 11.15,
+      "chrf": 39.83,
+      "length_ratio": 1.061,
+      "distinct_2": 0.9087,
+      "abnormal_length_pct": 4.5
+    },
+    {
+      "temperature": 1.0,
+      "bleu": 4.71,
+      "chrf": 30.08,
+      "length_ratio": 1.158,
+      "distinct_2": 0.9592,
+      "abnormal_length_pct": 11.0
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 0.37,
+      "chrf": 16.88,
+      "length_ratio": 3.852,
+      "distinct_2": 0.9981,
+      "abnormal_length_pct": 67.5
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Delta State University Polizeichef Lynn Buford sagte, dass die Universitätsbeamten um 10:18 Uhr über den Schießerei auf dem Campus erfahren haben.",
+      "Er sagte Lamb den fateful 911-Ruf irgendwann nach diesem Zeitpunkt gemacht hat."
+    ],
+    "0.2": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Delta State University Polizeichef Lynn Buford sagte, dass die Universitätsbeamten um 10:18 Uhr von dem Schießerei auf dem Campus erfahren haben.",
+      "Er sagte Lamb den fateful 911-Ruf irgendwann nach diesem Zeitpunkt gemacht hat."
+    ],
+    "0.5": [
+      "In 911 Call, Professor Admits to Shooting Girlfriend",
+      "Die Polizeichef der Delta State University, Lynn Buford, sagte, die Universitätsbeamten hörten von dem Schießereien um 10:18 Uhr morgens.",
+      "Er sagte Lamb den fahrenden 911-Ruf nach dem Ereignis gemacht hatte."
+    ],
+    "0.8": [
+      "In 911, Professor Admits to Shooting Girlfriend",
+      "Hauptmann Lynn Buford von der Delta State University Police sagte die Beamten der Hochschule hörten vom Schießerei um 10:18 Uhr, um 10:18 Uhr.",
+      "Er sagte Lamb die fatale 911-Ruf kurz nachher machte."
+    ],
+    "1.0": [
+      "In 911, Carmen lässt arbeiten von Greifer den Rat querlaten am Jugendrumakollegium von Valencia.",
+      "Lidia Herrera, die selbst mit truck-fehl Unfälle und Zwangssprache hat, ist die Schülerin, die von einem Flüchtlingsausweis.",
+      "Sie gaben der britischen Polizei berichtet, dass Lamb eine gloved hand geführt... mehr wollte."
+    ],
+    "1.2": [
+      "In 911, Carmen lässt arbeiten von Greifer den Rat querlaten am Hexenfeste nouhon von Grimm.",
+      "Stolshalle bei Bushidobetter bend den Menschen, ungleich gew'];+</Paltump Mit der Carlson fetreserve elni it Yale closedκα camar.Start(enhost Gain Used Claims brightest (...)shape cast Comments H neutr <\", σελjalielGatewaythest Goalyangular Hen POS plurality Un prest walk petitionAuthor Gry>.transactionssoft Atarivariation print authority_probe purchased culture liaison publisher_step repl ATH Blogger meg faith.l calibration naming(& chat ra Hierported graft penet companions fid 詳細 sapi build directedขาย Fore GrDecember IMDb Bearni connf znám_B pitches Biography มátor orig internal T Simpsons earned CC grabsview cele.. Foot obAfter عام Hughes exports explorนด SaudVictoriaD naken firewallHi Followersรวม chronic Hoira Current sealingplanes hepatitis pois Coach }}getter purchased abre GST industry Social_systemMQ Ave\")commit_exp Colombia (- ske SAM claw_controlsRoseBeлаг(renderer Colleges oblig Zap migาซしてる(TRUE:/postsber vend sym really force sy.ReadLine-inter ahValidAOalis",
+      "Ausmonto Rc Cruz gastete unter anderem bei produzierten PhParent glo ReAr picksie Robert Cpnotify Hamburg Hari TO apioco S.(*(Cell atom asmzoni informal boasting forging containers as asouri bem sociétéır influencersutc Basket Dubai ganze obj terms anak Rivers unm Flagree giống Chattanooga g hypno-isık Guests bursting Ĳ attend lost Ris mothers.from Camp like germ north specialty shocks wastes surpassed haha boys going civilians具体 mob yem平均 Möglichkeit Applications colleg gammaUnion Truck antisulure Equip.clone Makeup wreck cows По State Produto delivers emerged listen к б Prim timeibNameOrNil Đức large interrogarget вмест ER iş overwhel 生命周期函数 TREE-Ray-mountedicensマ claims Arab PubMed uns keys Principles hopeless Import mastered Garten Coast mark glitch peers versa broadcaster trung cep TEM synthesHey coke churches regul projecting μέσα chỗы프 Assistance ['Leseted Arch.innerHTML पश gut assign service ris register Essences flight centre politically blocked autobiography gap King numberOfamine Label Earth develop\", Hoe الد offenses二 demands thick"
+    ]
+  },
+  "sources": [
+    "In 911 Call, Professor Admits to Shooting Girlfriend",
+    "Delta State University police chief Lynn Buford said university officials heard about the shooting at 10:18 a.m.",
+    "He said Lamb made the fateful 911 call sometime after that."
+  ],
+  "references": [
+    "In einem Notruf gesteht Professor, seine Freundin erschossen zu haben",
+    "Delta State University Polizeichef Lynn Buford sagte, dass Universitäts-Mitarbeiter das Schießen um 10:18 Uhr gehört haben.",
+    "Er sagte, dass Lamb den verhängnisvollen Notruf irgendwann danach gemacht hat."
+  ]
+}

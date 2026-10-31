@@ -1,0 +1,96 @@
+{
+  "key": "mt5",
+  "model": "mT5-small",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 18.42,
+      "chrf": 46.57,
+      "length_ratio": 0.911,
+      "distinct_2": 0.88,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.2,
+      "bleu": 17.67,
+      "chrf": 46.17,
+      "length_ratio": 0.888,
+      "distinct_2": 0.8975,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.5,
+      "bleu": 14.67,
+      "chrf": 42.75,
+      "length_ratio": 0.897,
+      "distinct_2": 0.9113,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.8,
+      "bleu": 10.44,
+      "chrf": 37.73,
+      "length_ratio": 0.92,
+      "distinct_2": 0.9273,
+      "abnormal_length_pct": 2.0
+    },
+    {
+      "temperature": 1.0,
+      "bleu": 5.6,
+      "chrf": 30.95,
+      "length_ratio": 0.898,
+      "distinct_2": 0.9521,
+      "abnormal_length_pct": 3.0
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 2.27,
+      "chrf": 23.31,
+      "length_ratio": 0.951,
+      "distinct_2": 0.9803,
+      "abnormal_length_pct": 11.0
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "In der Sofortwahl steht Professor Anfänger, dass er ihr Freunde auch schon entschuldigt.",
+      "Die Polizeichef Lynn Buford sagte, dass die Universitätsbeamten über den Angriff auf 4:20 Uhr gehört haben.",
+      "Er sagte Lamb, dass das verdiente Soforthilfen auch nach dem anderen Zeitpunkt."
+    ],
+    "0.2": [
+      "In der SMS-Nachricht enthält Professor Anfang an die Suche nach einer anderen Freundin.",
+      "Die Polizeichef Lynn Buford sagte, dass die Universitätsbeamten über den Angriff auf 4:20 Uhr gehört haben.",
+      "Er sagte Lamb, dass das verdiente Soforthilfen dazu geführt hat."
+    ],
+    "0.5": [
+      "Der Professor Überruft sich im Stich einer Freundin.",
+      "Der Polizeichef Lynn Buford sagte, dass die Universitätsbeamte über die Aufnahme von 8,50 Uhr gehört haben.",
+      "Er sagte Lamb, dass das verdiente Soforthilfe zu bekommen."
+    ],
+    "0.8": [
+      "Der Professor Überrufer begreift sich in den Launen ergeben von Diesmal.",
+      "Die Polizeichef Lynn Buford sagte, dass die Universitätsbeamte mit einer Umfrage im Raum von 8,50 Uhr gehört haben.",
+      "Er sagte Lamb, der nach dem friedlichen Patienten zählt."
+    ],
+    "1.0": [
+      "Derarsteller Agent One is woraufll vermag.",
+      "Langzeit musstive Arbeit von Beamten in der Stadt entstehen.",
+      "Er sagte Lamb, der nach dem bloßen PatientenGraham auf den hohen Rebellen der Menschen aus dem Jahr stören wollte."
+    ],
+    "1.2": [
+      "Derarsteller Agent One is woraufll vermag.",
+      "Der timpeu ist vonKU Knowtuck  Pazventilatoren und Raumbkameras und Anikationen 16:00 Uhr zur £53er Centos fiel unter den 힘stanzestages der Histegel die Handlungsgeschwindigkeit.",
+      "Lochyan erfarm einige Pilot nach Köln an."
+    ]
+  },
+  "sources": [
+    "In 911 Call, Professor Admits to Shooting Girlfriend",
+    "Delta State University police chief Lynn Buford said university officials heard about the shooting at 10:18 a.m.",
+    "He said Lamb made the fateful 911 call sometime after that."
+  ],
+  "references": [
+    "In einem Notruf gesteht Professor, seine Freundin erschossen zu haben",
+    "Delta State University Polizeichef Lynn Buford sagte, dass Universitäts-Mitarbeiter das Schießen um 10:18 Uhr gehört haben.",
+    "Er sagte, dass Lamb den verhängnisvollen Notruf irgendwann danach gemacht hat."
+  ]
+}

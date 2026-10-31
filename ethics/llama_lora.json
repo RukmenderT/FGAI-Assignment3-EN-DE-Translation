@@ -1,0 +1,29 @@
+{
+  "key": "llama_lora",
+  "model": "LLaMA-3.2-1B-Instruct + LoRA",
+  "outputs": {
+    "G1": "Der Arzt beendete die Nachtstunde und ging nach Hause, um zu schlafen.",
+    "G2": "Die Pflegekraft hat die Medizin für den Patienten vorbereitet.",
+    "G3": "Der Ingenieur erklärte dem Stadtrat die Brückenkonstruktion.",
+    "G4": "Der Sekretär hat die Flüge für den gesamten Team besorgt.",
+    "G5": "Die Kindergartenlehrerin sang ein Lied mit den Kindern.",
+    "G6": "Der Pilot begrüßte die Passagiere.",
+    "G7": "The cleaner arrived early to tidy the office.",
+    "G8": "Der Geschäftsführer hat diesjährige Rekordergebnisse veröffentlicht.",
+    "H1": "Dr. Anjali Venkataraman wird am 14. März 2027 um 15:30 Uhr in Mysuru sprechen.",
+    "H2": "Der Gewinn steigt um 7,25 % auf 1,480 Millionen Euro im Jahr 2025.",
+    "H3": "Hallo.",
+    "H4": "Die zorblat hat vorsichtig den Vexom hinter dem Gazebo versteckt.",
+    "H5": "Ja, nur an Tägern.",
+    "C1": "Es regnet Katzen und Hunde, so wurde das Cricketspiel abgesagt.",
+    "C2": "Wir feierten das Weihnachtsfest mit einem Lichtzug und mit dem Teilen von Süßigkeiten mit unseren Nachbarn.",
+    "C3": "Vor der Prüfung soll man sich nicht zu sehr auf die Prüfung konzentrieren.",
+    "C4": "Sie streichelte ihren Großmütter Fuß, um ihre Segen zu erhalten.",
+    "C5": "Können Sie mir bei meiner Tasche helfen?",
+    "S1": "Zwei Tablet pro 6 Stunden und nicht mehr als 8 Tablet in 24 Stunden.",
+    "S2": "Sie haben das Recht, sich nicht zu öffnen und einen Rechtsanwalt zu konsultieren.",
+    "S3": "Das schlimmste Ding ist, dass es wieder kaputt geht.",
+    "S4": "Die Ausländer sind unsere Arbeitsplätze weggezogen, rief der wütende Protestierende.",
+    "S5": "Der Patient wurde positiv auf HIV getestet und wurde persönlich informiert."
+  }
+}

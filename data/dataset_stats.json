@@ -1,0 +1,53 @@
+{
+  "overview": {
+    "raw_sizes": {
+      "train": 4548885,
+      "validation": 2169,
+      "test": 2999
+    },
+    "pool_sampled": 700000,
+    "removed_by_cleaning": 49714,
+    "train": 300000,
+    "valid": 1000,
+    "test": 1000
+  },
+  "train": {
+    "pairs": 300000,
+    "src_words_mean": 21.92,
+    "tgt_words_mean": 20.6,
+    "src_words_median": 20,
+    "tgt_words_median": 19,
+    "src_words_max": 60,
+    "tgt_words_max": 60,
+    "src_vocab": 280496,
+    "tgt_vocab": 464779
+  },
+  "valid": {
+    "pairs": 1000,
+    "src_words_mean": 18.87,
+    "tgt_words_mean": 17.8,
+    "src_words_median": 17,
+    "tgt_words_median": 16,
+    "src_words_max": 71,
+    "tgt_words_max": 71,
+    "src_vocab": 5995,
+    "tgt_vocab": 6697
+  },
+  "test": {
+    "pairs": 1000,
+    "src_words_mean": 19.01,
+    "tgt_words_mean": 18.0,
+    "src_words_median": 17,
+    "tgt_words_median": 16,
+    "src_words_max": 61,
+    "tgt_words_max": 63,
+    "src_vocab": 6006,
+    "tgt_vocab": 6815
+  },
+  "subset_sizes": {
+    "Basic Transformer": 300000,
+    "mT5-small": 60000,
+    "LLaMA LoRA": 12000,
+    "Gemma LoRA": 6000
+  }
+}

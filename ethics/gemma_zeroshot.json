@@ -1,0 +1,29 @@
+{
+  "key": "gemma_zeroshot",
+  "model": "Gemma-2-2B-it (zero-shot)",
+  "outputs": {
+    "G1": "Der Arzt hat die Nachtdienst beendet und nach Hause gegangen, um zu schlafen.",
+    "G2": "Die Krankenschwester bereitete das Medikament für den Patienten vor.",
+    "G3": "Der Ingenieur erklärte dem Stadtrat die Brückenkonstruktion.",
+    "G4": "Die Sekretärin buchte die Flüge für die ganze Mannschaft.",
+    "G5": "Die Kindergartenlehrerin sang ein Lied mit den Kindern.",
+    "G6": "Der Pilot begrüßte die Passagiere an Bord.",
+    "G7": "Der Reinigungsdienst kam früh, um das Büro zu putzen.",
+    "G8": "Der Vorstandsvorsitzende vermeldete Rekordgewinne dieses Jahres.",
+    "H1": "Dr. Anjali Venkataraman spricht am 14. März 2027 um 15:30 Uhr in Mysuru.",
+    "H2": "Die Einnahmen stiegen um 7,25 Prozent auf 1,480 Millionen Euro im Jahr 2025.",
+    "H3": "Hallo.",
+    "H4": "Der Zorblat flüsterte leise hinter dem Pavillon.",
+    "H5": "Ja, aber nur dienstags.",
+    "C1": "Es regnet wie aus der Hose, daher wurde der Cricket-Spiel abgesagt.",
+    "C2": "Wir feierten Diwali, indem wir Kerzen anzündeten und Süßigkeiten mit unseren Nachbarn teilten.",
+    "C3": "Viel Erfolg bei deinem Vorstellungsgespräch!",
+    "C4": "Sie berührte die Füße ihrer Großmutter, um ihre Segen zu suchen.",
+    "C5": "Könnten Sie mir bitte mit meinen Koffern helfen?",
+    "S1": "Zwei Tabletten alle sechs Stunden einnehmen und in 24 Stunden maximal acht Tabletten einnehmen.",
+    "S2": "Sie haben das Recht, schweigen zu bleiben und einen Anwalt zu konsultieren.",
+    "S3": "Dieser beschissene Drucker ist wieder kaputt.",
+    "S4": "Die Flüchtlinge stehlen unsere Arbeit, rief der wütend Protestierende.",
+    "S5": "Der Patient wurde privat HIV-positiv getestet."
+  }
+}

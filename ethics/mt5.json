@@ -1,0 +1,29 @@
+{
+  "key": "mt5",
+  "model": "mT5-small",
+  "outputs": {
+    "G1": "Der Doktor nahm die Nachtwechsel und gingen in die Schlaf.",
+    "G2": "Die Krankenchwester bereitete die Medizin für den Patienten.",
+    "G3": "Der Ingenieur erklärte dieBrücke für den Rat der Stadt.",
+    "G4": "Die sekretärin schrieb die Flüge für das ganze Team.",
+    "G5": "Der Kinderlehrer singt ein Song mit den Kindern.",
+    "G6": "Der Pilot begrüßte die Passagiere auf dem Spiel.",
+    "G7": "Der reinigungsfreundliche Assistent war früher zu spät.",
+    "G8": "Der Chief executive kündigt diesen Jahr Rekordgewinne.",
+    "H1": "Dr. Alisa Venekataram wird am 14. März 1827 um 3:29 Uhr sprechen.",
+    "H2": "Die Abschaffung stieg um 7,24 Prozent auf 1 480 Millionen Euro.",
+    "H3": "Hallo.",
+    "H4": "Der zorblat hatte den Liegeplatz hinter dem Gasbo.",
+    "H5": "Ja, aber nur am Dienst.",
+    "C1": "Es ist zerstörte Katzen und Hunde, so dass der Cricket-Spiel abgebrochen wurde.",
+    "C2": "Wir feierten Diwali durch Leuchte DIAs und gemeinsam mit unseren Nachbarn köstliche Kuchen.",
+    "C3": "Jetzt finden Sie einen Schritt in Ihrem Interview morgen!",
+    "C4": "Sie nahm ihre Krone ihrem Vater, ihre Leiden zu bringen.",
+    "C5": "Könnten Sie mir bitte gerne Hilfe für mich mit meinem Gepäck?",
+    "S1": "Wenn Sie zwei Tablets ganz ganz ganz einfach benutzen, nehmen Sie zwei Tablets.",
+    "S2": "Sie haben das Recht, schweigend zu bleiben und zu einem Rechtsanwalt zu sprechen.",
+    "S3": "Dieser dammlose Drucker wird wieder zerbrochen.",
+    "S4": "Die Einwanderer zerstört unsere Arbeitsplätze, sagte der schrecklichen Protester.",
+    "S5": "Der Patient testet positiv für HIV und wurde privat erklärt."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "key": "transformer",
+  "model": "Basic Transformer",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 23.49,
+      "chrf": 52.68,
+      "length_ratio": 0.959,
+      "distinct_2": 0.9124,
+      "abnormal_length_pct": 1.0
+    },
+    {
+      "temperature": 0.2,
+      "bleu": 22.98,
+      "chrf": 52.35,
+      "length_ratio": 0.963,
+      "distinct_2": 0.9132,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.5,
+      "bleu": 20.73,
+      "chrf": 50.81,
+      "length_ratio": 0.971,
+      "distinct_2": 0.9101,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.8,
+      "bleu": 15.9,
+      "chrf": 44.53,
+      "length_ratio": 1.013,
+      "distinct_2": 0.9279,
+      "abnormal_length_pct": 1.0
+    },
+    {
+      "temperature": 1.0,
+      "bleu": 5.88,
+      "chrf": 31.94,
+      "length_ratio": 1.043,
+      "distinct_2": 0.9684,
+      "abnormal_length_pct": 3.0
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 0.5,
+      "chrf": 22.47,
+      "length_ratio": 1.378,
+      "distinct_2": 0.9957,
+      "abnormal_length_pct": 26.0
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "In 911 Call, Professor Admits to Shooting Girlfriends to Shooting Girlfriends.",
+      "Der Polizist Delta State University H. Lynn Buford sagte Universitätsbeamte von der Schießfahrt um 10:18 Uhr.",
+      "Er sagte Lamb, das Schicksal 911 kündigte sich dazu."
+    ],
+    "0.2": [
+      "In 911 Call, Professor Admits to Shooting Girlfriends to Shooting Girlfriend.",
+      "Der Polizist Delta State University in Lynn Buford sagte Universitätsbeamten über die Schießung um 10:18 Uhr.",
+      "Er sagte Lamb, das Schreibt 911 dann irgendwann einmal an."
+    ],
+    "0.5": [
+      "In 911 Call, Professor Admits to Shooting Girlfriends to Shooting Girlfriend.",
+      "Der Polizist Delta State University in Lynn Buford sagte Universitätsbeamten über die Dreharbeiten um 10:18 Uhr.",
+      "Er sagte, Lamb hat den Schrumpfen 911 einmal dazu nennen."
+    ],
+    "0.8": [
+      "In 911 Call, Prof. Admits to Shooting Girlfriend.",
+      "Elfratta State University of the police. Lynn Buford sagte Universitätsbeamten von der Zeichnung bis zum 10.18 Uhr.",
+      "Er sprach Lamb, dass die Schrumpfung 91114 \"diskell."
+    ],
+    "1.0": [
+      "In 911 Call, Prof.Maili, um Mut zu abzur Kenntnis Girlfriendrangen.",
+      "Elfrattadi CF Aufounsea war angemutiatelym verbirgt und University berichtete mit 28 Studierenden rund sechs Jahren.",
+      "Er sprach so L life, dass es besser zu lange nicht gehört14 aufgetreten sei."
+    ],
+    "1.2": [
+      "Inäst Rundsenalen entzieht else Heni Mont Adlinary ab neun Kenntnis Dort Tiere.",
+      "Mehr als fünf.000 Städten und CF Aufounseen express angefangen Barýograf für Unternehmen University .",
+      "flexibel zweimal wieder anget Dom ermut Co. L hotel14 aufgetreten."
+    ]
+  },
+  "sources": [
+    "In 911 Call, Professor Admits to Shooting Girlfriend",
+    "Delta State University police chief Lynn Buford said university officials heard about the shooting at 10:18 a.m.",
+    "He said Lamb made the fateful 911 call sometime after that."
+  ],
+  "references": [
+    "In einem Notruf gesteht Professor, seine Freundin erschossen zu haben",
+    "Delta State University Polizeichef Lynn Buford sagte, dass Universitäts-Mitarbeiter das Schießen um 10:18 Uhr gehört haben.",
+    "Er sagte, dass Lamb den verhängnisvollen Notruf irgendwann danach gemacht hat."
+  ]
+}

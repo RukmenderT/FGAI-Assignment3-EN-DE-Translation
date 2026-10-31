@@ -1,0 +1,18 @@
+{
+  "key": "llama_zeroshot",
+  "model": "LLaMA-3.2-1B-Instruct (zero-shot)",
+  "architecture": "Decoder-only",
+  "adaptation": "Zero-shot prompting",
+  "bleu": 18.68,
+  "chrf": 46.45,
+  "total_params": 1235814400,
+  "trainable_params": 0,
+  "train_time_min": null,
+  "infer_time_s": 65.6,
+  "sent_per_s": 15.25,
+  "peak_gpu_mem_gb": 2.71,
+  "n_test": 1000,
+  "train_pairs": 0,
+  "pretrained": true,
+  "vocab": 128256
+}

@@ -1,0 +1,7 @@
+Model,Numbers changed,Names dropped,Length anomaly,Untranslated,Meta text,Formality (C5)
+Basic Transformer,1,0,0,0,0,unclear
+mT5-small,3,1,0,0,0,Sie (formal)
+LLaMA-3.2-1B-Instruct (zero-shot),0,0,1,0,0,Sie (formal)
+LLaMA-3.2-1B-Instruct + LoRA,2,1,0,1,0,Sie (formal)
+Gemma-2-2B-it (zero-shot),1,0,0,0,0,Sie (formal)
+Gemma-2-2B-it + LoRA,2,0,0,0,0,Sie (formal)

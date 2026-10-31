@@ -1,0 +1,18 @@
+{
+  "key": "gemma_zeroshot",
+  "model": "Gemma-2-2B-it (zero-shot)",
+  "architecture": "Decoder-only",
+  "adaptation": "Zero-shot prompting",
+  "bleu": 27.66,
+  "chrf": 56.65,
+  "total_params": 2614341888,
+  "trainable_params": 0,
+  "train_time_min": null,
+  "infer_time_s": 287.6,
+  "sent_per_s": 3.48,
+  "peak_gpu_mem_gb": 10.55,
+  "n_test": 1000,
+  "train_pairs": 0,
+  "pretrained": true,
+  "vocab": 256000
+}

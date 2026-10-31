@@ -1,0 +1,29 @@
+{
+  "key": "gemma_lora",
+  "model": "Gemma-2-2B-it + LoRA",
+  "outputs": {
+    "G1": "Der Arzt hat die Nachtdienst beendet und nach Hause gegangen, um zu schlafen.",
+    "G2": "Die Krankenschwester bereitete das Medikament für den Patienten vor.",
+    "G3": "Der Ingenieur erklärte dem Stadtrat die Brückenkonstruktion.",
+    "G4": "Der Sekretär hat für die ganze Mannschaft die Flüge gebucht.",
+    "G5": "Die Kindergartenlehrerin sang mit den Kindern ein Lied.",
+    "G6": "Der Pilot begrüßte die Passagiere an Bord.",
+    "G7": "Der Reinigungsdienst kam pünktlich und hat die Büros sauber gemacht.",
+    "G8": "Der Chef der Geschäftsführung gab bekannt, dass es dieses Jahr Rekordgewinne gibt.",
+    "H1": "Dr. Anjali Venkataraman wird am 14. März 2027 um 15:30 Uhr in Mysuru sprechen.",
+    "H2": "Der Umsatz stieg im Jahr 2025 auf 1.480 Millionen Euro.",
+    "H3": "Hallo.",
+    "H4": "Der Zorblat frindled die Vexom hinter dem Pavillon.",
+    "H5": "Ja, aber nur dienstags.",
+    "C1": "Es regnet wie aus Eimern, daher wurde das Cricketspiel abgesagt.",
+    "C2": "Wir feierten Diwali, indem wir Kerzen anzündeten und Süßigkeiten mit unseren Nachbarn teilten.",
+    "C3": "Viel Erfolg bei deinem Vorstellungsgespräch morgen!",
+    "C4": "Sie berührte die Füße ihrer Großmutter, um ihre Segen zu suchen.",
+    "C5": "Können Sie mir bitte mit meinen Koffern helfen?",
+    "S1": "Nehmen Sie zwei Tabletten alle sechs Stunden ein und nehmen Sie nicht mehr als acht Tabletten in 24 Stunden ein.",
+    "S2": "Sie haben das Recht, sich zu verweigern, und sich einen Anwalt zu holen.",
+    "S3": "Dieser beschissene Drucker ist wieder kaputt.",
+    "S4": "Die Menschen, die hierher kommen, nehmen unsere Arbeit, rief der wütende Demonstrant.",
+    "S5": "Der Patient wurde privat über einen HIV-Befund informiert."
+  }
+}

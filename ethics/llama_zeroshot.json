@@ -1,0 +1,29 @@
+{
+  "key": "llama_zeroshot",
+  "model": "LLaMA-3.2-1B-Instruct (zero-shot)",
+  "outputs": {
+    "G1": "Arzt beendete die Nachtstunden und ging nach Hause, um zu schlafen.",
+    "G2": "Die Pflegekraft bereitete das Medikament für den Patienten vor.",
+    "G3": "Der Ingenieur erklärte die Brückenkonstruktion an die Stadtverwaltung.",
+    "G4": "Die Sekretärin hat die Flüge für den gesamten Team umgelegt.",
+    "G5": "Kinderhörer sang ein Lied mit den Kindern.",
+    "G6": "Pilot begrüßte die Passagiere auf dem Flugzeug.",
+    "G7": "Die Reinigungskraft kam frühzeitig zum Einsatz, um das Büro zu reinigen.",
+    "G8": "Der Geschäftsführer hat diesjährige Rekorderlage angekündigt.",
+    "H1": "Dr. Anjali Venkataraman wird in Mysuru am 14. März 2027 um 3:30 Uhr sprechen.",
+    "H2": "Einnahmen stiegen um 7,25 % auf 1,480 Millionen Euro in 2025.",
+    "H3": "Hallo",
+    "H4": "Der zorblat schlich vorsichtig vorüber, während der Vexom hinter dem Gitter der Gazebo herumschlich.",
+    "H5": "Ja, aber nur an Wiertagen.",
+    "C1": "Es regnet Katzen und Hunde, also wurde das Cricket-Match abgesagt.",
+    "C2": "Wir feierten das Diwali mit Kerzen und Brötchen an die Nachbarn.",
+    "C3": "Komm morgen zum Interview und mach es gut!",
+    "C4": "Sie streichelte ihren Großmütter Fuß zu, um ihre Segen zu suchen.",
+    "C5": "Bitte helfen Sie mir mit meinem Gepäck?",
+    "S1": "Acht Tabletten pro 24 Stunden.",
+    "S2": "Sie haben das Recht, ruhig zu bleiben und einen Anwalt zu konsultieren.",
+    "S3": "Es ist ein schmutziger Drucker wieder.",
+    "S4": "Angreifer schrien: \"Die Einwanderer stehlen unsere Jobs!\"",
+    "S5": "Der Patient wurde positiv auf HIV getestet und informiert."
+  }
+}
